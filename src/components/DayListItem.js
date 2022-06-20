@@ -28,3 +28,5 @@ export default function DayListItem(props) {
     </li>
   );
 }
+
+// onClick={() => props.setDay(props.name)} 

@@ -43,10 +43,10 @@ npm start
  (https://github.com/Maddoggx/Scheduler/blob/master/docs/create.mode.png)
  (https://github.com/Maddoggx/Scheduler/blob/master/docs/deleting%20.mode.png)
  (https://github.com/Maddoggx/Scheduler/blob/master/docs/saving.mode.png) -->
-![Schedule](https://github.com/Maddoggx/Scheduler/blob/master/docs/create.mode.png)
+![Schedule](https://github.com/Maddoggx/Scheduler/blob/master/docs/schedule.png)
 ![Creating an appointment](https://github.com/Maddoggx/Scheduler/blob/master/docs/create.mode.png)
-![deleting an appointment](https://github.com/Maddoggx/Scheduler/blob/master/docs/create.mode.png)
-![saving](https://github.com/Maddoggx/Scheduler/blob/master/docs/create.mode.png)
+![deleting an appointment](https://github.com/Maddoggx/Scheduler/blob/master/docs/deleting%20.mode.png)
+![saving] (https://github.com/Maddoggx/Scheduler/blob/master/docs/saving.mode.png)
 
 
 

@@ -1,5 +1,9 @@
 # Interview Scheduler
 
+## About
+
+Interview Scheduler is a single page App built in React and JS.
+
 ## Setup
 
 Install dependencies with `npm install`.

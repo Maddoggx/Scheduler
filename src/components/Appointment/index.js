@@ -93,11 +93,11 @@ export default function Appointment(props) {
           {mode === DELETING && <Status message={"Deleting"} />}
           {mode === ERROR_DELETE && <Error
           message={"Could not delete appointment."}
-          onClose={() => transition(CONFIRM, true)}
+          onClose={() => transition(FORM, true)}
           />}
           {mode === ERROR_SAVE && <Error
            message={"Could not save appointment."}
-           onClose={back}
+            onClose={back}
           />}
           {mode === CONFIRM && (
             <Confirm
